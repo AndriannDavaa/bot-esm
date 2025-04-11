@@ -22,3 +22,10 @@ Bot WhatsApp berbasis **ESM JavaScript** menggunakan `@fizzxydev/baileys-pro`, c
 ```bash
 git clone https://github.com/AndriannDavaa/bot-esm.git
 cd bot-esm
+```
+---
+### 2.Install Dependency
+```bash
+npm install
+```
+### 3.Start bot

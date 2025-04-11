@@ -1,0 +1,24 @@
+{
+  "name": "bot-esm",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "@fizzxydev/baileys-pro": "^8.6.11",
+    "@whiskeysockets/baileys": "^6.17.16",
+    "axios": "^1.8.4",
+    "chalk": "^5.4.1",
+    "node-cache": "^5.1.2",
+    "pino": "^8.0.0"
+  },
+  "version": "1.1.0",
+  "description": "aloo",
+  "keywords": [
+    "aloo"
+  ],
+  "author": "andrian",
+  "license": "ISC",
+  "devDependencies": {}
+}

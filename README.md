@@ -33,7 +33,7 @@ npm install
 ### 3. Jalankan Bot
 
 ```bash
-node main.js
+npm start
 ```
 
 > **Note**: Pastikan kamu sudah login dengan Pairing Code saat pertama kali menjalankan bot.

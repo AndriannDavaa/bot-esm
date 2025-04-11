@@ -13,12 +13,23 @@
     "node-cache": "^5.1.2",
     "pino": "^8.0.0"
   },
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "aloo",
   "keywords": [
     "aloo"
   ],
   "author": "andrian",
   "license": "ISC",
-  "devDependencies": {}
+  "devDependencies": {},
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriannDavaa/bot-esm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AndriannDavaa/bot-esm/issues"
+  },
+  "homepage": "https://github.com/AndriannDavaa/bot-esm#readme"
 }

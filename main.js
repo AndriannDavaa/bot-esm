@@ -16,7 +16,7 @@ import pino from 'pino'
 import chalk from 'chalk'
 import readline from 'readline'
 import { settings } from './settings.js'
-import { handleCase } from './menu.js'
+import { handleCase } from './case.js'
 
 const {
   default: makeWASocket,

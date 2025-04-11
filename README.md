@@ -9,7 +9,6 @@ Bot WhatsApp berbasis **ESM JavaScript** menggunakan `@fizzxydev/baileys-pro`, c
 - Login pakai **Pairing Code**
 - Mendukung **tombol interaktif**
 - Struktur modular (`index.js`, `case.js`, `settings.js`)
-- Tanpa database, cukup pakai JSON (`produk.json`)
 - Tampilan log terminal warna-warni
 - Setting bot mudah di `settings.js`
 
@@ -29,3 +28,6 @@ cd bot-esm
 npm install
 ```
 ### 3.Start bot
+```bash
+npm start
+```
